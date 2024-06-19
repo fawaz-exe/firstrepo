@@ -1,0 +1,17 @@
+1. Create a new repo
+2.Create files in your local repo and push the files on github.
+3. Add me to that repository 
+
+My github username: fawaz-exe
+
+git init - Intalizes the git in the local system to track the files.
+git add . ("." current directory)
+git add <filename>
+git remote origin <repo name>
+git commit -m "<Message>"
+git push origin main
+
+10 indiviual commits.
+
+5 commits - Write a summary note on git & github (500 lines No chatgpt) Take a typing test : Keybr.com typing.com 
+5 - commits - How was your week 0/1 at CFI Bootcamp.
